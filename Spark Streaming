@@ -1,0 +1,12 @@
+## Spark Streaming
+
+
+### Reference:
+
+[1] https://spark.apache.org/docs/2.0.2/streaming-kafka-integration.html
+
+[2] http://spark.apache.org/docs/2.0.2/streaming-kafka-0-8-integration.html
+
+[3] http://spark.apache.org/docs/2.0.2/streaming-kafka-0-8-integration.html#approach-2-direct-approach-no-receivers
+
+[4] http://central.maven.org/maven2/org/apache/spark/spark-streaming-kafka-0-8_2.11/2.0.2/spark-streaming-kafka-0-8_2.11-2.0.2.jar
